@@ -1,0 +1,75 @@
+@media (max-width: 477px) {
+    .section-p1 {
+        padding: 20px;
+    }
+
+    button.normal {
+        font-size: 15px;
+    }
+
+    #header {
+        padding: 10px 30px;
+    }
+
+    #main-front {
+        padding: 0 20px;
+        background-position: 55%;
+    }
+
+    h1 {
+        font-size: 38px;
+    }
+
+    #main-front p {
+        background-color: #0000000d;
+    }
+
+    #feature {
+        justify-content: space-between;
+    }
+
+    #feature .fe-box {
+        width: 155px;
+        margin: 0 0 15px 0;
+    }
+
+    #product1 .pro {
+        width: 100%;
+    }
+
+    #banner {
+        height: 40vh;
+    }
+
+    #banner h2 {
+        font-size: 30px;
+    }
+
+    #sm-banner .banner-box {
+        height: 40vh;
+    }
+
+    #banner-3 {
+        padding: 0 20px;
+    }
+
+    #banner-3 .banner-box {
+        width: 100%;
+        height: 25vh;
+    }
+
+    #newsletter {
+        padding: 40px 20px;
+    }
+
+    #newsletter .form {
+        width: 100%;
+    }
+
+    footer .copyright {
+        width: 100%;
+        padding: 0 20px;
+        text-align: center;
+    }
+
+}
